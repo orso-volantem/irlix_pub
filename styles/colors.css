@@ -1,0 +1,8 @@
+:root {
+	--main-bg-color: hsl(244, 19%, 15%);
+	--main-text-color: hsl(0, 0%, 100%);
+	--additional-text-color: hsl(253, 13%, 78%);
+	--button-bg-color: hsl(254, 9%, 28%);
+	--button-bg-hover: hsl(253, 12%, 22%);
+	--footer-bg-color: hsl(250, 19%, 6%);
+}
